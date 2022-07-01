@@ -1,5 +1,5 @@
-# desafio-github-dio
-Criação do primeiro repositório
+# Desafio Git/Github Dio
+
 ## Definições e Comandos Importantes
 
 
